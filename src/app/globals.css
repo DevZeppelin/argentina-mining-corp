@@ -1,26 +1,24 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* Brand (basado en el logo) */
+  --color-amc-orange: #f28a1a;
+  --color-amc-orange-2: #ff6a00;
+  --color-amc-graphite: #0f1216;
+  --color-amc-steel: #9aa3ad;
+  --color-amc-silver: #d6dde6;
+
+  /* UI */
+  --color-amc-bg: #07090c;
+  --color-amc-card: #0c0f14;
+  --color-amc-border: #1b2230;
+  --color-amc-text: #e9eef5;
+  --color-amc-muted: #a8b3c2;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Opcional: helpers */
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-amc-bg);
+  color: var(--color-amc-text);
 }
