@@ -27,27 +27,27 @@ export const amc = {
 
   petroleumDivision: [
     {
-      name: "AMC-ASPHALT",
+      name: "HR-ASPHALT",
       desc: "Estabilizador de lutitas. Controla la filtración a alta temperatura y alta presión.",
       tag: "Control / Estabilidad",
     },
     {
-      name: "AMC-SEAL",
+      name: "HR-SEAL",
       desc: "Material obturante (fine / medium / coarse). Mezcla de fibras y microfibras orgánicas para control de pérdidas de circulación.",
       tag: "Obturación",
     },
     {
-      name: "AMC-SEAL-50",
+      name: "HR-SEAL-50",
       desc: "Material obturante (fine / medium / coarse). Mezcla de fibras y microfibras orgánicas para control de pérdidas de circulación.",
       tag: "Obturación",
     },
     {
-      name: "AMC-SEADUST (Aserrín)",
+      name: "HR-SEADUST (Aserrín)",
       desc: "Obturante tamizado. Mezcla de fibras celulósicas para control de pérdida de circulación.",
       tag: "Celulósicos",
     },
     {
-      name: "AMC-WALNUT (Cáscara de nuez)",
+      name: "HR-WALNUT (Cáscara de nuez)",
       desc: "Obturante de origen vegetal orgánico para control de pérdida de circulación.",
       tag: "Orgánico",
     },
@@ -89,7 +89,7 @@ export const amc = {
     ctaText:
       "Contanos tu aplicación (petróleo, perforación de agua o industria) y te recomendamos el producto y el empaque ideal.",
     // completá cuando lo tengas:
-    email: "hugoramirez@gmail.com",
+    email: "ramirezhugoraul69@gmail.com",
     phone: "+54 9 2613 43 8868",
     whatsapp: "https://wa.me/5492613438868",
   },
