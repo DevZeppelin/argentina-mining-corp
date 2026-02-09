@@ -16,17 +16,17 @@ export default function Navbar() {
         <div className="flex items-center justify-between py-3">
           <a href="#" className="flex items-center gap-3">
             <Image
-              src="/amc-logo-notext.png"
-              alt="Argentine Mining Corporation"
+              src="/hr-logo-notext.png"
+              alt="Hugo Ramírez Minerales y fibras"
               width={200}
               height={200}
               className="h-24 w-24"
             />
             <div className="leading-tight">
               <p className="text-sm font-semibold tracking-wide">
-                ARGENTINE MINING
+                HUGO RAMÍREZ
               </p>
-              <p className="text-xs text-amc-muted">CORPORATION SRL</p>
+              <p className="text-xs text-amc-muted">Minerales y fibras</p>
             </div>
           </a>
 

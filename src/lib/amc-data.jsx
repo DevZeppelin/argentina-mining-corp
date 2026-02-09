@@ -1,5 +1,5 @@
 export const amc = {
-  name: "Argentine Mining Corporation SRL",
+  name: "HR - Minerales y fibras para la industria",
   tagline:
     "Molienda y comercialización de fibras y minerales para industria petrolera, perforaciones de agua e industria en general.",
   location: "Mendoza, República Argentina",
@@ -89,7 +89,7 @@ export const amc = {
     ctaText:
       "Contanos tu aplicación (petróleo, perforación de agua o industria) y te recomendamos el producto y el empaque ideal.",
     // completá cuando lo tengas:
-    email: "comercial@argentineminingcorp.com",
+    email: "hugoramirez@gmail.com",
     phone: "+54 9 2613 43 8868",
     whatsapp: "https://wa.me/5492613438868",
   },

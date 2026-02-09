@@ -17,8 +17,8 @@ export default function About() {
           </div>
           <div>
             <Image
-              src="/amc-logo.png"
-              alt="Argentine Mining Corporation"
+              src="/hr-logo.png"
+              alt="Hugo Ramírez Minerales y fibras"
               width={600}
               height={600}
               className="w-full"
