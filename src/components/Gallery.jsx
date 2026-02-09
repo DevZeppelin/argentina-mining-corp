@@ -57,7 +57,7 @@ export default function Gallery() {
   return (
     <section className="py-14 md:py-20">
       <Container>
-        <p className="text-sm font-semibold text-[color:var(--color-amc-orange)]">
+        <p className="text-sm font-semibold text-amc-orange">
           Instalaciones y procesos
         </p>
 
@@ -65,7 +65,7 @@ export default function Gallery() {
           Nuestra operación en imágenes
         </h2>
 
-        <p className="mt-3 max-w-3xl text-[color:var(--color-amc-muted)]">
+        <p className="mt-3 max-w-3xl text-amc-muted">
           Desde la recepción de la materia prima hasta el envasado y despacho,
           cada etapa está pensada para garantizar calidad, trazabilidad y
           consistencia del producto final.
@@ -75,7 +75,7 @@ export default function Gallery() {
           {images.map((img, i) => (
             <div
               key={i}
-              className="group relative aspect-[3/4] overflow-hidden rounded-2xl border border-[color:var(--color-amc-border)] bg-[color:var(--color-amc-card)]"
+              className="group relative aspect-[3/4] overflow-hidden rounded-2xl border border-amc-border bg-amc-card"
             >
               {/* Imagen */}
               <Image

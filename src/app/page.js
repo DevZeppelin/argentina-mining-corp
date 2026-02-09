@@ -9,6 +9,7 @@ import Values from "@/components/Values";
 import CTA from "@/components/CTA";
 import Footer from "@/components/Footer";
 import Gallery from "@/components/Gallery";
+import ExportBanner from "@/components/ExportBanner";
 
 export default function Page() {
   return (
@@ -21,6 +22,7 @@ export default function Page() {
       <Gallery />
       <Divisions />
       <Process />
+      <ExportBanner />
       <Values />
       <CTA />
       <Footer />

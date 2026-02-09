@@ -6,6 +6,8 @@ const links = [
   { href: "#productos", label: "Productos" },
   { href: "#petroleo", label: "División Petróleo" },
   { href: "#proceso", label: "Proceso" },
+  { href: "#export", label: "Exportación" },
+
   { href: "#contacto", label: "Contacto" },
 ];
 
