@@ -20,15 +20,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <head>
-        <title>
-          Hugo Ramírez | Minerales y Fibras Industriales
-        </title>
-        <meta
-          name="description"
-          content="Proveedor de minerales y fibras industriales para perforación e industria. Exportación al Cono Sur."
-        />
-      </head>
+
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
