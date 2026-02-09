@@ -2,7 +2,7 @@ export default function Head() {
     return (
         <>
             <title>
-                Hugo Ramírez | Minerales y Fibras Industriales para Exportación
+                Hugo Ramírez | Minerales y Fibras para la industria
             </title>
 
             <meta
