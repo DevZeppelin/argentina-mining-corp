@@ -18,10 +18,8 @@ export const amc = {
     ],
     minerales: [
       "Carbonato de calcio",
-      "Cuarzo",
-      "Mica",
       "Bentonita",
-      "Baritina",
+      "Piedritas sanitarias para gatos",
     ],
   },
 

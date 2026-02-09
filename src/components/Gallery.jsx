@@ -44,11 +44,11 @@ const images = [
     alt: "",
   },
   {
-    src: "/gallery/tierra 2.jpeg",
+    src: "/gallery/tierra gruesa.jpeg",
     alt: "",
   },
   {
-    src: "/gallery/tierra gruesa.jpeg",
+    src: "/gallery/gatos.png",
     alt: "",
   },
 ];

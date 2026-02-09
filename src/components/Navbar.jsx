@@ -26,7 +26,9 @@ export default function Navbar() {
               <p className="text-sm font-semibold tracking-wide">
                 HUGO RAMÍREZ
               </p>
-              <p className="text-xs text-amc-muted">Minerales y fibras</p>
+              <p className="text-xs text-amc-muted">
+                Minerales y fibras para la industria
+              </p>
             </div>
           </a>
 
