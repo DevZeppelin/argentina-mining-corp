@@ -18,7 +18,7 @@ export default function About() {
           <div>
             <Image
               src="/hr-logo.png"
-              alt="Hugo Ramírez Minerales y fibras"
+              alt="Hugo Ramírez Minerales y fibras para la industria"
               width={600}
               height={600}
               className="w-full"
